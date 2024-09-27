@@ -1,0 +1,19 @@
+{
+  "name": "Portafolio Victor",
+  "short_name": "Portafolio Victor",
+  "description": "En esta página podrás disfrutar la radio completa de la K DST del videojuego GTA San Andreas",
+  "background_color": "#02004b",  
+  "theme_color": "#000000",       
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./index.html?utm_source=web_app_manifest",  
+  "scope": "./",  
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "../assets/icono.png",
+      "sizes": "144x144",
+      "purpose": "any"   
+    }
+  ]
+}
